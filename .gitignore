@@ -1,2 +1,4 @@
 build/
 cmake/
+espeak-ng-data/
+models/
